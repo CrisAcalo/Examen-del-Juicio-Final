@@ -1,0 +1,34 @@
+¿Qué es React?
+A) Una librería de JavaScript para construir interfaces de usuario
+B) Un framework de backend
+C) Un lenguaje de programación
+D) Una base de datos
+ANSWER: A
+
+¿Qué hace el hook useState?
+A) Gestiona el enrutamiento
+B) Permite añadir estado a componentes funcionales
+C) Realiza peticiones HTTP
+D) Modifica el DOM directamente
+ANSWER: B
+
+¿Qué es JSX?
+A) Una extensión de sintaxis de JavaScript que se parece a XML
+B) Un nuevo lenguaje creado por Google
+C) Un motor de plantillas de PHP
+D) Una librería de estilos
+ANSWER: A
+
+¿Cómo se pasan datos de un componente padre a un hijo?
+A) Usando state
+B) Usando props
+C) Usando Redux
+D) Usando variables globales
+ANSWER: B
+
+¿Qué patrón se usa para manejar los cambios de input en un formulario de React?
+A) Two-way data binding
+B) Componentes no controlados exclusivamente
+C) Componentes controlados (state y onChange)
+D) getElementById
+ANSWER: C
